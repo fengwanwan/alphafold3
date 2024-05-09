@@ -1,23 +1,11 @@
-[![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Python Package Template
-A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
+# AlphaFold3
+Learn AlphaFold3 inspired from [AlphaFold3](https://github.com/kyegomez/Python-Package-Template.git). Many thanks.
 
 
 ## Installation
 
 You can install the package using pip
-
-```bash
-pip install -e .
-```
-
-# Usage
-```python
-print("hello world")
-
-```
-
 
 
 ### Code Quality 🧹

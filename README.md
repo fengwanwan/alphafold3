@@ -1,6 +1,6 @@
 
 # AlphaFold3
-Learn AlphaFold3 inspired from [AlphaFold3](https://github.com/kyegomez/Python-Package-Template.git). Many thanks.
+Learn AlphaFold3 inspired from [AlphaFold3 https://github.com/kyegomez/AlphaFold3.git](https://github.com/kyegomez/AlphaFold3.git). Many thanks Eternal Reclaimer.
 
 
 ## Installation
